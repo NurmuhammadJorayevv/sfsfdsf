@@ -1,0 +1,6 @@
+pip install aiogram
+pip install requests
+Tokenni Bot.py file ichda qo'yishni unutmang
+python Bot.py
+agar ishlamasa 
+python3 Bot.py
